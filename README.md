@@ -1,4 +1,4 @@
-# 🎮 Retro TV Arcade - Emulador NES & SNES (HTML5 / EmulatorJS)
+# 🎮 Retro Arcade - Emulador NES & SNES (HTML5 / EmulatorJS)
 
 Uma aplicação web moderna, responsiva e pronta para uso offline/nuvem, desenvolvida em HTML5, CSS3 e JavaScript. O projeto utiliza o motor **EmulatorJS (WebAssembly)** para executar ROMs dos consoles **NES (8-bit)** e **SNES (16-bit)** diretamente no navegador.
 
